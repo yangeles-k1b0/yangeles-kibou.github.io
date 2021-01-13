@@ -38,6 +38,7 @@ body{
     clear: both;
     font-weight: 900;
     font-size: 23px;
+    margin-bottom:none;
     
 }
 #subtitle{
@@ -51,6 +52,7 @@ body{
     margin-right: 15px;
     position: relative;
     display: inline-block;
+    margin-top: none;
 }
 .dropdown-content {
 
