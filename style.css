@@ -45,6 +45,7 @@ body{
 #subtitle{
     
     clear: both;
+    display: block;
     
 }
 #nav{
