@@ -1,0 +1,207 @@
+*{
+    
+    margin: 0;
+    font-family: 'Yusei Magic', sans-serif;    
+}
+body{
+    
+    background-image: url(https://i.pinimg.com/originals/b8/1a/a4/b81aa44ba47c8ebb93c4525a96904101.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: #2E281C;
+    height: 100%;
+    width: 100%;
+    
+}
+#top{
+    
+    background-color: #4A3A1D;
+    border-bottom: dashed #2E281C 8px; 
+    padding: 10px;
+    color: #E8E0D1;
+    position: fixed;
+    width: 100%;
+    height: 5%;
+    box-shadow:0px 10px 20px #263332;
+    z-index: 3;
+}
+#logo{
+    
+    max-width: 75px;
+    max-height: 75px;
+    float: left;
+    filter: drop-shadow(5px 2px 5px #222);
+    transform: initial;
+}
+#title{
+    
+    clear: both;
+    font-weight: 900;
+    font-size: 23px;
+    
+}
+#subtitle{
+    
+    clear: both;
+    
+}
+#nav{
+    
+    float: right;
+    margin-right: 15px;
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+
+    display: block;
+    float:right;
+    clear: both;
+    position: relative;
+    background-color: #736935;
+    min-width: 20%;
+    box-shadow:5px 5px 7px #222;
+    border-radius: 5px;
+    filter: opacity(85%);
+
+}   
+
+.dropdown-content a {
+
+    padding: 0px 16px;
+    text-decoration: none;
+    color: #E8E0D1;
+    text-decoration-color: NONE;
+
+}
+.dropdown-content a:hover {
+    
+    background-color: #5c542e;
+    border-radius: 5px;
+    
+}
+#body{
+    
+    padding: 20px;
+    margin-right: 175px;
+    margin-left: 175px;
+    
+}
+#essay{
+    
+    
+    background-color: #cef2ec;
+    filter: opacity(85%);
+    box-shadow:10px 0px 20px #263332,-3px 0px 20px #263332;
+    border-radius:25px;
+    margin: auto;
+    margin-top: 200px;
+    width: 80%;
+}
+.bodytext{
+       
+    padding: 10px;
+    margin-top: 50px;
+    
+}
+#index{
+    
+    padding: 20px;
+    margin-right: 10%;
+    margin-left: 10%;
+    
+}
+#paragraph{
+    
+    margin-top: 70px;
+    filter: opacity(100%);
+    
+}
+#bodyimage{
+    
+    filter: drop-shadow(5px 0.5px 4px #222);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height: 75%;    
+    background-color: #cef2ec;
+    filter: opacity(85%);
+    box-shadow:10px 0px 20px #263332,-3px 0px 20px #263332;
+    border-radius:25px;
+
+    
+}
+#intro{
+    
+    margin-bottom: 50px;
+    text-align: left;
+    width: 55%;
+    min-height: 160px;
+    background-color: #cef2ec;
+    filter: opacity(85%);
+    box-shadow:10px 0px 20px #263332,-3px 0px 20px #263332;
+    border-radius:25px;
+    
+}
+#expect{
+   
+    margin-top: 50px;
+    width: 55%;
+    min-height: 160px;
+    float: right;
+    background-color: #cef2ec;
+    filter: opacity(85%);
+    box-shadow:10px 0px 35px #263332,-3px 0px 35px #263332;
+    border-radius:25px;
+    margin-bottom: 300px;
+    
+}
+#bottom{
+    
+    background-color: #555e5c;
+    color: #7C948D;
+    position: absolute;
+    width: 100%;
+    
+}
+#bottom a{
+    
+    
+    color: #7C948D;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-color: none;
+    
+}
+.tab {
+    
+    display: block;
+    margin: auto;
+    
+}
+#header{
+    
+    text-align: center;
+    font-weight: bolder;
+    
+}
+.thumbnail{
+
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+.thumbnail:hover{
+    
+    filter:brightness(175%);
+    width: 90%;
+    box-shadow:10px 0px 20px #263332,-3px 0px 20px #263332;
+}
+.article{
+    
+    text-align: center;
+    
+}
