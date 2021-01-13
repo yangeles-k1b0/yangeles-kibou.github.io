@@ -1,8 +1,4 @@
-@media only screen and (max-width: 1440px){
- #subtitle{
-     display:none;
-    }
-}
+
 *{
     
     margin: 0;
@@ -52,6 +48,11 @@ body{
     clear: both;
     display: inline-block;
     
+}
+@media only screen and (max-width: 1440px){
+ #subtitle{
+     display:none;
+    }
 }
 #nav{
     
