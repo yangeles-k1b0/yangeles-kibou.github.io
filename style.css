@@ -28,6 +28,8 @@ body{
 #logo{
     
     max-width: 75px;
+    min-width: 50px;
+    min-height: 50px;
     max-height: 75px;
     float: left;
     filter: drop-shadow(5px 2px 5px #222);
